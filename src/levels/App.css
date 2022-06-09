@@ -1,0 +1,7 @@
+body{
+    display: flex;
+    background-image: url("../assets/wallpaper.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    background-color: black;
+}
